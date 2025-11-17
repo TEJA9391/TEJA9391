@@ -1,6 +1,7 @@
+<h1 align="center">BOORA RAVITEJA</h1>
+<h3 align="center">Aspiring ML & Backend Developer</h3>
 
-
-
+---
 
 🚀 About Me
 
