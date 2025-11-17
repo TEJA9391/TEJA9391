@@ -1,4 +1,7 @@
 
+
+
+
 🚀 About Me
 
 I'm a passionate student exploring the world of software development and Artificial Intelligence.  
