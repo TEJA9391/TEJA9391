@@ -29,17 +29,21 @@ I’m always open to ideas, collaboration, and learning opportunities!
   <a href="https://www.linkedin.com/in/boora-raviteja-a856a9352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://www.instagram.com/tejr_tej" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
   <a href="mailto:tejrtej9347@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
   <a href="https://discord.com/users/1439874443341070368" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
 </div>
+
 
 
 
