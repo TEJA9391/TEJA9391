@@ -76,49 +76,39 @@ I’m always open to ideas, collaboration, and learning opportunities!
 
 <h3>📊 GitHub Stats</h3>
 
-<div align="center">
 
-  <!-- GitHub Stats Box -->
+
+
+  <!-- GitHub Stats -->
   <a href="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" 
          height="180px" 
-         alt="GitHub Stats" 
-         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.05)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+         alt="GitHub Stats" />
   </a>
 
-  <!-- Top Languages Box -->
+  <!-- Top Languages -->
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" 
          height="180px" 
-         alt="Top Languages" 
-         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.05)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+         alt="Top Languages" />
   </a>
 
-  <!-- Streak Stats Box -->
+  <!-- Streak Stats -->
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" 
          height="180px" 
-         alt="Streak Stats" 
-         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.05)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+         alt="Streak Stats" />
   </a>
 
-  <!-- Contribution Graph Box -->
-  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=TEJA9391&theme=radical" target="_blank">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TEJA9391&theme=radical" 
+  <!-- Contribution Graph -->
+  <a href="https://ghchart.rshah.org/TEJA9391" target="_blank">
+    <img src="https://ghchart.rshah.org/TEJA9391" 
          height="180px" 
-         alt="Contribution Graph" 
-         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.05)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+         alt="Contribution Graph" />
   </a>
 
 </div>
+
 
 
 
