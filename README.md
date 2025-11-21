@@ -78,19 +78,48 @@ I’m always open to ideas, collaboration, and learning opportunities!
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" height="180px" />
+  <!-- GitHub Stats Box -->
+  <a href="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" 
+         height="180px" 
+         alt="GitHub Stats" 
+         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" height="180px" />
+  <!-- Top Languages Box -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" 
+         height="180px" 
+         alt="Top Languages" 
+         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" height="180px" />
+  <!-- Streak Stats Box -->
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" 
+         height="180px" 
+         alt="Streak Stats" 
+         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TEJA9391&theme=radical" height="180px" />
+  <!-- Contribution Graph Box -->
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=TEJA9391&theme=radical" target="_blank">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TEJA9391&theme=radical" 
+         height="180px" 
+         alt="Contribution Graph" 
+         style="border-radius:15px;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.05)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 
 </div>
+
 
 
 
