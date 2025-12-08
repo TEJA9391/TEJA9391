@@ -79,21 +79,13 @@ I’m always open to ideas, collaboration, and learning opportunities!
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" alt="Streak Stats" />
-</p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical)
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/TEJA9391" alt="Contribution Graph" />
-</p>
+![Contribution Graph](https://ghchart.rshah.org/TEJA9391)
 
 
 
