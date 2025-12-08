@@ -80,35 +80,42 @@ I’m always open to ideas, collaboration, and learning opportunities!
 
 <h3>📊 GitHub Stats</h3>
 
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <!-- GitHub Stats -->
   <a href="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical" 
-         height="180px" 
-         alt="GitHub Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical"
+      height="180"
+      alt="GitHub Stats"
+    />
   </a>
 
   <!-- Top Languages -->
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical" 
-         height="180px" 
-         alt="Top Languages" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical"
+      height="180"
+      alt="Top Languages"
+    />
   </a>
 
   <!-- Streak Stats -->
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical" 
-         height="180px" 
-         alt="Streak Stats" />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical"
+      height="180"
+      alt="Streak Stats"
+    />
   </a>
 
   <!-- Contribution Graph -->
   <a href="https://ghchart.rshah.org/TEJA9391" target="_blank">
-    <img src="https://ghchart.rshah.org/TEJA9391" 
-         height="180px" 
-         alt="Contribution Graph" />
+    <img 
+      src="https://ghchart.rshah.org/TEJA9391"
+      height="180"
+      alt="Contribution Graph"
+    />
   </a>
 
 </div>
