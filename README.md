@@ -85,8 +85,6 @@ I’m always open to ideas, collaboration, and learning opportunities!
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical)
 
-![Contribution Graph](https://ghchart.rshah.org/TEJA9391)
-
 
 
 
