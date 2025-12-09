@@ -83,7 +83,8 @@ I’m always open to ideas, collaboration, and learning opportunities!
 
 ![Top Languages](https://github-readme-stats-mu-smoky.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical)
 
-![Streak Stats](https://streak-stats.demolab.com?user=TEJA9391&theme=radical)
+![Streak Stats](https://streak-stats.vercel.app?user=TEJA9391&theme=radical)
+
 
 
 
