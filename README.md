@@ -42,7 +42,12 @@ I’m always open to ideas, collaboration, and learning opportunities!
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
+  <a href="https://x.com/Tejr_tej?s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+
 </div>
+
 
 
 
