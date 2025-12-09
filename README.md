@@ -77,14 +77,13 @@ I’m always open to ideas, collaboration, and learning opportunities!
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-mu-smoky.vercel.app/api?username=TEJA9391&show_icons=true&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TEJA9391&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-mu-smoky.vercel.app/api/top-langs/?username=TEJA9391&layout=compact&theme=radical)
 
-
-
+![Streak Stats](https://streak-stats.demolab.com?user=TEJA9391&theme=radical)
 
 
 
